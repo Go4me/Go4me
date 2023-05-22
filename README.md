@@ -8,7 +8,7 @@
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS,REACT,PYTHON,C,WORDPRESS**
 
 - 📫 How to reach me **jaisontpoulose@gmail.com**
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=go4me&label=Profile%20views&color=0e75b6&style=flat" alt="go4me" /> </p>
