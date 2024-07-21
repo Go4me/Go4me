@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Jaison T Poulose</h1>
 <h3 align="center">Am a designer who knows to code from India</h3>
-- 🔭 I’m currently working on **Food Order Recommendation Sysytem**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python and Web Dev**
 
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS,REACT,PYTHON,C,WORDPRESS**
 
