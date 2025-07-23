@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently mastering **Node JS**
 
-- 💬 Ask me about **Django,Node,HTML,CSS,BOOTSTRAP,JS,REACT,PYTHON,C,WORDPRESS**
+- 💬 Ask me about **Django, Node, HTML, CSS, BOOTSTRAP, JS, REACT, PYTHON**
 
 - 📫 How to reach me **jaisontpoulose@gmail.com**
 
