@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jaison T Poulose</h1>
 <h3 align="center">Am a designer who knows to code from India</h3>
 
-- 🌱 I’m currently learning **Python and Web Dev**
+- 🌱 I’m currently mastering **Node JS**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS,REACT,PYTHON,C,WORDPRESS**
+- 💬 Ask me about **Django,Node,HTML,CSS,BOOTSTRAP,JS,REACT,PYTHON,C,WORDPRESS**
 
 - 📫 How to reach me **jaisontpoulose@gmail.com**
 
